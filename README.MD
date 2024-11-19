@@ -1,0 +1,3 @@
+# portfolio
+
+<p>This project leveraged GitHub's project management tools, including milestones, issues, and project boards, to streamline collaboration and task organization. Key milestones included styling the navigation bar to enhance the user interface, resolving bugs in the signup page for improved functionality, and creating a contact form to facilitate user communication. Each milestone was broken down into detailed issues to track progress effectively, ensuring transparency and accountability. While the tools significantly improved project structure, challenges like maintaining up-to-date boards and managing task dependencies required consistent communication and team coordination.<p>
